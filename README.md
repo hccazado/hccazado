@@ -17,9 +17,31 @@ I’m passionate about building software that addresses real-world challenges wh
 
 ## 🌱 About Me
 
-- 🎓 Pursuing a **Bachelor of Applied Science in Software Development** at BYU–Idaho (expected 2027).
+- 🎓 Pursuing a **Bachelor of Applied Science in Software Development** at BYU–Idaho (expected April 2026).
 - 📈 Graduate of a **Full-Stack Node.JS Bootcamp** at Digital House.
 - 🗣️ Native Portuguese speaker, fluent in Spanish, and strong English communication skills.
+
+---
+
+## 💻 Projects
+
+**CRM System for Caza do Café - Python Flask, Firebase, Jinja2, HTML/CSS**
+-	Designed and implemented a custom CRM using Python Flask, Firebase, and Jinja2 Templates, reducing paperwork and sales processing time by 40%.
+
+**Rosario Chamber of Commerce - HTML5, CSS3, Javascript**
+-	Completed an educational mobile-first web project for a fictional chamber of commerce, achieving a 98% Google Lighthouse score.
+-	Github pages: https://hccazado.github.io/wdd230/chamber/index.html
+
+**Scoots Motor Scooters - HTML5, CSS3, Javascript**
+-	Completed an educational mobile-first web project for a fictional Mexican scooter rental service, achieving a 95% Google Lighthouse score.
+- Github pages: https://hccazado.github.io/wdd230/scoots/index.html
+
+**Drugstore Management API  - Node.JS, Swagger, MongoDB, Mongoose, Authentication (Passport – Google, and Github)**
+-	Developed a RESTful API using Node.js, MongoDB, Mongoose, and authentication flow using Passport.
+-	Designed and documented endpoints with Swagger for ease of integration.
+-	Implemented secure user authentication with Passport (Google and GitHub strategies), data validation, and full CRUD operations.
+-	Wrote unit tests, maintained version control with Git, and collaborated effectively in a team environment.
+-	Project repository: https://github.com/hccazado/cse341-DrugstoreManagementAPI
 
 ---
 
