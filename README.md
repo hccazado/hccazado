@@ -1,25 +1,27 @@
 # 👋 Hi, I'm Heitor Cazado!
 
-🎯 **Aspiring Software Developer** | 📍 Based in Brazil & Argentina | 🌱 Lifelong learner
+🎯 **Full-Stack Developer | RPA & Automation Specialist** | 📍 Based in Brazil & Argentina | 🌱 Lifelong learner
 
-I’m passionate about building software that addresses real-world challenges while continuously seeking new knowledge and improving my skills.
+I’m passionate about building end-to-end solutions that combine robust backends with intelligent automated workflows to address real-world challenges.
 
 ---
 
 ## 🧰 Skills & Technologies
 
-- 💻 **Languages:** Python, C#, JavaScript
-- 🌐 **Web Development:** HTML, CSS, Node.js, REST APIs
-- 🗄️ **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- 🛠️ **Tools & Practices:** Git/GitHub, Agile/Scrum
+- 💻 **Backend:** C#, .NET, Node.js, Python (Flask/Django), Java
+- 🤖 **Automation & AI:** N8N, MCP, AI Agents, IoT
+- 🌐 **Frontend:** TypeScript, JavaScript, HTML5, CSS3, AXIOS, React
+- 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
+- 🛠️ **DevOps & Tools:** Git, Docker, Agile/Scrum, Swagger
 
----
+---a
 
 ## 🌱 About Me
 
-- 🎓 Pursuing a **Bachelor of Applied Science in Software Development** at BYU–Idaho (expected April 2026).
+- 🎓 Pursuing a **Bachelor of Applied Science in Software Development** at BYU–Idaho (expected December 2026).
+- 🎓 Recommended member from **NSCS - The National Society of Collegiate Scholars**.
 - 📈 Graduate of a **Full-Stack Node.JS Bootcamp** at Digital House.
-- 🗣️ Native Portuguese speaker, fluent in Spanish, and strong English communication skills.
+- 🗣️ Native Portuguese speaker, fluent in Spanish, and fluent in English (Technical & Conversational).
 
 ---
 
