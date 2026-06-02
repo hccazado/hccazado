@@ -14,7 +14,7 @@ I’m passionate about building end-to-end solutions that combine robust backend
 - 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
 - 🛠️ **DevOps & Tools:** Git, Docker, Agile/Scrum, Swagger
 
----a
+---
 
 ## 🌱 About Me
 
