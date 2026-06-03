@@ -25,6 +25,12 @@
 
 ---
 
+## 🌐 Portfolio
+
+👉 [hccazado.github.io](https://hccazado.github.io/hccazado)
+
+---
+
 ## 💻 Projects
 
 **🤖 Medical Aesthetics Scheduling Chatbot — n8n, OpenAI API, Google Calendar API**
@@ -52,12 +58,6 @@
 
 Explore my automation workflows and templates:
 👉 [n8n Workflow Directory](https://github.com/hccazado/n8n-workflows)
-
----
-
-## 🌐 Portfolio
-
-👉 [hccazado.github.io](https://hccazado.github.io)
 
 ---
 
