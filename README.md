@@ -1,57 +1,71 @@
 # 👋 Hi, I'm Heitor Cazado!
 
-🎯 **Full-Stack Developer | RPA & Automation Specialist** | 📍 Based in Brazil & Argentina | 🌱 Lifelong learner
-
-I’m passionate about building end-to-end solutions that combine robust backends with intelligent automated workflows to address real-world challenges.
+🎯 **AI Automation Specialist | Full-Stack Developer**
+📍 Based in Brazil & Argentina (Permanent Resident)
+🌱 Building production AI systems that actually run in the real world
 
 ---
 
 ## 🧰 Skills & Technologies
 
-- 💻 **Backend:** C#, .NET, Node.js, Python (Flask/Django), Java
-- 🤖 **Automation & AI:** N8N, MCP, AI Agents, IoT
-- 🌐 **Frontend:** TypeScript, JavaScript, HTML5, CSS3, AXIOS, React
+- 🤖 **AI & Automation:** n8n, OpenAI API, Claude API, MCP (Model Context Protocol), AI Agents, Prompt Engineering, LLM Integration
+- 💻 **Backend:** Node.js, Python (Flask), C# (.NET Core), Java
+- 🌐 **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3
 - 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
-- 🛠️ **DevOps & Tools:** Git, Docker, Agile/Scrum, Swagger
+- 🛠️ **DevOps & Tools:** Git, Docker, Render, Railway, Swagger, Agile/Scrum
 
 ---
 
 ## 🌱 About Me
 
-- 🎓 Pursuing a **Bachelor of Applied Science in Software Development** at BYU–Idaho (expected December 2026).
-- 🎓 Recommended member from **NSCS - The National Society of Collegiate Scholars**.
-- 📈 Graduate of a **Full-Stack Node.JS Bootcamp** at Digital House.
-- 🗣️ Native Portuguese speaker, fluent in Spanish, and fluent in English (Technical & Conversational).
+- 🎓 Pursuing a **B.S. in Software Development** at BYU–Idaho, USA (GPA 3.98/4.0 — expected Dec 2026)
+- 🏅 Member of **NSCS — National Society of Collegiate Scholars**
+- 🗣️ Trilingual: Portuguese (native), Spanish (fluent), English (professional)
+- 🌎 Open to remote opportunities in the US, Mexico, Spain, and Latin America
 
 ---
 
 ## 💻 Projects
 
-**CRM System for Caza do Café - Python Flask, Firebase, Jinja2, HTML/CSS**
--	Designed and implemented a custom CRM using Python Flask, Firebase, and Jinja2 Templates, reducing paperwork and sales processing time by 40%.
+**🤖 Medical Aesthetics Scheduling Chatbot — n8n, OpenAI API, Google Calendar API**
+- Built an end-to-end scheduling automation for a medical aesthetics clinic with no native calendar integration available
+- Engineered a workflow that maps services to employees, pulls real-time Google Calendar availability, and generates booking slots dynamically
+- Entire chatbot runs on OpenAI driven by a robust prompt architecture — 100% of routine bookings automated
 
-**Rosario Chamber of Commerce - HTML5, CSS3, Javascript**
--	Completed an educational mobile-first web project for a fictional chamber of commerce, achieving a 98% Google Lighthouse score.
--	Github pages: https://hccazado.github.io/wdd230/chamber/index.html
+**⚡ AI Automation Ecosystem — n8n, OpenAI API, MCP**
+- Architected multi-step AI automation workflows serving 1,000+ active daily users in production
+- Integrated OpenAI API, MCP agents, webhooks, and third-party APIs in complex pipelines
+- Shipped production releases within 12 hours of stakeholder feedback — 80%+ user satisfaction
 
-**Scoots Motor Scooters - HTML5, CSS3, Javascript**
--	Completed an educational mobile-first web project for a fictional Mexican scooter rental service, achieving a 95% Google Lighthouse score.
-- Github pages: https://hccazado.github.io/wdd230/scoots/index.html
+**🗄️ CRM System — Python/Flask, PostgreSQL, Firebase**
+- Built a full custom CRM from scratch for a green coffee commodities company
+- Automated contract management, lead tracking, and inventory control
+- Reduced document processing time by 60%
 
-**Drugstore Management API  - Node.JS, Swagger, MongoDB, Mongoose, Authentication (Passport – Google, and Github)**
--	Developed a RESTful API using Node.js, MongoDB, Mongoose, and authentication flow using Passport.
--	Designed and documented endpoints with Swagger for ease of integration.
--	Implemented secure user authentication with Passport (Google and GitHub strategies), data validation, and full CRUD operations.
--	Wrote unit tests, maintained version control with Git, and collaborated effectively in a team environment.
--	Project repository: https://github.com/hccazado/cse341-DrugstoreManagementAPI
+**💊 Drugstore Management API — Node.js, MongoDB, Swagger, Passport**
+- RESTful API with Google and GitHub OAuth, full CRUD, unit tests, and Swagger documentation
+- Repository: https://github.com/hccazado/cse341-DrugstoreManagementAPI
+
+---
+
+## 🔄 n8n Workflows
+
+Explore my automation workflows and templates:
+👉 [n8n Workflow Directory](https://github.com/hccazado/n8n-workflows)
+
+---
+
+## 🌐 Portfolio
+
+👉 [hccazado.github.io](https://hccazado.github.io)
 
 ---
 
 ## 📫 Get in Touch
 
-- 📧 Email: [heitorcazado@gmail.com](mailto:heitorcazado@gmail.com)
+- 📧 [heitorcazado@gmail.com](mailto:heitorcazado@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/heitor-cazado)
 
 ---
 
-Feel free to explore my repositories — and don’t hesitate to reach out if you’d like to connect or collaborate!
+*Feel free to explore my repositories — and don't hesitate to reach out if you'd like to connect or collaborate!*
