@@ -21,7 +21,7 @@
 - 🎓 Pursuing a **B.S. in Software Development** at BYU–Idaho, USA (GPA 3.98/4.0 — expected Dec 2026)
 - 🏅 Member of **NSCS — National Society of Collegiate Scholars**
 - 🗣️ Trilingual: Portuguese (native), Spanish (fluent), English (professional)
-- 🌎 Open to remote opportunities in the US, Mexico, Spain, and Latin America
+- 🌎 Open to remote opportunities in the US, Mexico, Spain, Europe, and Latin America.
 
 ---
 
